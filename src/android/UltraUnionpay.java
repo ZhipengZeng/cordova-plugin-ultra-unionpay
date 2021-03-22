@@ -12,7 +12,7 @@ import com.unionpay.UPPayAssistEx;
 /**
  * This class echoes a string called from JavaScript.
  */
-public class LantuUnionPay extends CordovaPlugin {
+public class UltraUnionpay extends CordovaPlugin {
 
     private CallbackContext currentCallbackContext;
 
