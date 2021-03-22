@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-ultra-unionpay",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for latest Unionpay SDK",
+  "cordova": {
+    "id": "cordova-plugin-ultra-unionpay",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhipengZeng/cordova-plugin-ultra-unionpay.git"
+  },
+  "keywords": [
+    "Unionpay",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Zhipeng Zeng <keviniszzp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhipengZeng/cordova-plugin-ultra-unionpay/issues"
+  },
+  "homepage": "https://github.com/ZhipengZeng/"
+}
